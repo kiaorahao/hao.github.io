@@ -11,7 +11,7 @@ baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog host
 
 
 # SNS settings
-RSS: false
+RSS: true
 weibo_username:    
 zhihu_username:    
 github_username:    kiaorahao
