@@ -5,8 +5,8 @@ header-img: img/home-bg.jpg
 email: kiaorahao@gmail.com
 description: "自由职业者 | 郑皓，SAP BI, Cognitive Psychology | 这里是 @Hao郑皓 的个人博客，自由地游走在世界的边缘。"
 keyword: "郑皓, Hao, kiaorahao, @kiaorahao, 郑皓的博客, Hao Blog, 博客, 个人网站, 互联网, Web"
-url: "https://huangxuan.me"              # your host, for absolute URL
-baseurl: "https://medium.com/@kiaorahao"                             # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://kiaorahao.github.io/"              # your host, for absolute URL
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 future: true
