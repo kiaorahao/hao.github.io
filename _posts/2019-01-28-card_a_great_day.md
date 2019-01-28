@@ -7,9 +7,9 @@ header-style: text
 tags:
   - IA003
 ---
-# 行动卡：
+#行动卡：
 
-#【术语】：
+#[术语]：
 执行意图（Implementation Intentions,"When-Then"）
 
 维修站策略（Pit strategy）
