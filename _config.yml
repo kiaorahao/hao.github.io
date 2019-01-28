@@ -1,5 +1,5 @@
 # Site settings
-title: Hao Blog
+title: Hao's Blog
 SEOTitle: 皓的博客 | Hao Blog
 header-img: img/home-bg.jpg
 email: kiaorahao@gmail.com
@@ -10,30 +10,24 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
+
 # SNS settings
 RSS: true
-weibo_username:    
-zhihu_username:    
+weibo_username:
+zhihu_username:
 github_username:    kiaorahao
-#twitter_username: 
-facebook_username: 
+#twitter_username:
+facebook_username:
 
 
 
 # Build settings
-# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
 permalink: pretty
 paginate: 10
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
-
-
-
-# Gems
-# from PR#40, to support local preview for Jekyll 3.0
 gems: [jekyll-paginate]
-
 
 
 # Markdown settings
@@ -50,27 +44,20 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: ''
+duoshuo_username: Bebop.C
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: false                     # set to false if you want to use Comment without Sharing
 
 
 
 
-# Analytics settings
-# Baidu Analytics
-ba_track_id: ''
-# Google Analytics
-ga_track_id: ''            # Format: UA-xxxxxx-xx
-ga_domain:
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hao.jpg
-      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-hao.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -82,14 +69,15 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 
 # Friends
 friends: [
-    {
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
-    },{
-        title: "修行之路",
-        href: "https://bchen4.github.io/"
-    },{
-        title: "简书爱",
-        href: "https://lilianxj.github.io/"
-    }
+{
+title: "Hux Blog",
+href: "http://huangxuan.me"
+},{
+title: "修行之路",
+href: "https://bchen4.github.io/"
+},{
+title: "简书爱",
+href: "https://lilianxj.github.io/"
+}
 ]
+
