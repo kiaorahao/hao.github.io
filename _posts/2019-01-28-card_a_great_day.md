@@ -5,7 +5,7 @@ subtitle: '安人书院读书卡'
 author: "Hao"
 header-style: text
 tags:
-  - IA003
+  - 安人书院
 ---
 #行动卡：
 
