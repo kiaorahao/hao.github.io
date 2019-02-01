@@ -1,9 +1,5 @@
-# HuxBlog Boilerplate
+# Hao's Blog
 
-##### This is the boilerplate of [Hux Blog](https://github.com/Huxpro/huxpro.github.io), all documents is over there!
+## Thanks
 
-#### [View Boilerplate &rarr;](http://huangxuan.me/huxblog-boilerplate/)
-
-#### [View Live Hux Blog &rarr;](http://huangxuan.me)
-
-## If you like Hux Blog, Please star [huxpro.github.io repo](https://github.com/Huxpro/huxpro.github.io) instead of this! Thank you!
+This theme is forked from [Hector.Z的博客 | Hector.Z Blog](https://hectoor.github.io/) and [Huxpro/huxblog-boilerplate](https://github.com/Huxpro/huxblog-boilerplate). Thanks a lot!  
