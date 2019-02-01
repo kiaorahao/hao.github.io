@@ -47,8 +47,9 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: KiaoraHao
-site.disqus_username: KiaoraHao
+disqus_username: hux
+# KiaoraHao
+
 
 # Duoshuo settings
 # duoshuo_username: huxblog
