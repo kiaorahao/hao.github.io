@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "Hey, this is Hux."
+description: "Hey, this is Hao."
 header-img: "img/about-bg.jpg"
 ---
 
@@ -14,15 +14,7 @@ header-img: "img/about-bg.jpg"
 <!-- Chinese Version -->
 <div class="zh post-container">
     <!--copied from markdown -->
-<!--    <blockquote>
-        唯有恐惧，方能勇敢。
-    </blockquote>
-    上帝给了你这些天赋，如果你不用，他就会把它收回。
 
-    <p style="text-align:right;">
-        —— <a href="http://www.amazon.com/Clapton-The-Autobiography-Eric/dp/076792536X">埃里克·克莱普顿 </a>
-    </p>
--->
 绝望趴在深渊，死死地盯着你， 
 <br>一缕希望之光，在头顶若即若离。
 <br>你告诉自己，抛弃所有黑暗诱惑，
@@ -42,15 +34,14 @@ header-img: "img/about-bg.jpg"
         If you dont go within, you go without.
     </blockquote>
 
-<!-- 
-    <p>
-    God has given you this gift, and if you don't use it he will take it away.
-    </p>
--->
 
     <p style="text-align:right;">
-    -- Steve Jobs
+    -- Yogi Bhajan
     </p>
+	
+    <p>	
+    <a href="https://medium.com/@kiaorahao">Harry's Medium</a>  
+    </p>	
 
 </div>
 
@@ -70,66 +61,25 @@ header-img: "img/about-bg.jpg"
     onLanChange(0);
 </script>
 
+<div id="disqus_thread"></div>
+<script>
 
-
-{% if site.duoshuo_username %}
-<!-- 多说评论框 start -->
-<div class="comment">
-    <div class="ds-thread"
-    {% if site.duoshuo_username == "huxblog" %}
-        data-thread-id="1187623191091085319"
-    {% else %}
-        data-thread-key="{{site.duoshuo_username}}/about"
-    {% endif %}
-
-    data-title="{{page.title}}"
-    data-url="{{site.url}}/about/"></div>
-</div>
-<!-- 多说评论框 end -->
-
-<!-- Duoshuo hacking -->
-<input id="dsUser" type="hidden" value="{{site.duoshuo_username}}"  />
-
-<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
-<script type="text/javascript">
-    // dynamic User hacking by Hux
-    var _user = document.getElementById('dsUser').value;
-    // duoshuo comment query.
-    var duoshuoQuery = {short_name: _user };
-    (function() {
-        var ds = document.createElement('script');
-        ds.type = 'text/javascript';ds.async = true;
-        ds.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//static.duoshuo.com/embed.js';
-        ds.charset = 'UTF-8';
-        (document.getElementsByTagName('head')[0]
-         || document.getElementsByTagName('body')[0]).appendChild(ds);
-    })();
+/** Adding comment
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://https-kiaorahao-github-io-2.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
 </script>
-<!-- 多说公共JS代码 end -->
-{% endif %}
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                            
 
-
-{% if site.disqus_username %}
-<!-- disqus 评论框 start -->
-<div class="comment">
-    <div id="disqus_thread" class="disqus-thread">
-
-    </div>
-</div>
-<!-- disqus 评论框 end -->
-
-<!-- disqus 公共JS代码 start (一个网页只需插入一次) -->
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES * * */
-    var disqus_shortname = "{{site.disqus_username}}";
-    var disqus_identifier = "{{site.disqus_username}}/{{page.url}}";
-    var disqus_url = "{{site.url}}{{page.url}}";
-
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<!-- disqus 公共JS代码 end -->
-{% endif %}
