@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "企业与个人管理决策系统对比"
+title: "企业与个人管理决策系统"
 subtitle: ''
 author: "Hao"
 header-style: text
