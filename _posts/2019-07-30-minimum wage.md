@@ -35,9 +35,11 @@ tags:
 
 ### 图解演绎推理和归纳推理
 
-![1反对](assets/1反对-9545404.png)
+![1反对](https://raw.githubusercontent.com/kiaorahao/kiaorahao.github.io/master/_posts/assets/1反对-9545404.png)
 
-![2支持](assets/2支持.jpg)
+![2支持](https://raw.githubusercontent.com/kiaorahao/kiaorahao.github.io/master/_posts/assets/2支持.jpg)
+
+
 
 
 
