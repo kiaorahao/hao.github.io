@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "心有鸿蒙，脚踏实地"
-subtitle: '2019年7月31周语记'
+subtitle: '2019年8月31周语记'
 author: "Hao"
 header-style: text
 tags:
