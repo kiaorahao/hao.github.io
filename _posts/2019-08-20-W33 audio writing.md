@@ -4,6 +4,7 @@ title: "给时间的野马套上缰绳"
 subtitle: '2019年8月33周语记'
 author: "Hao"
 header-style: text
+catalog: true
 tags:
   - Audio Writing
 ---
