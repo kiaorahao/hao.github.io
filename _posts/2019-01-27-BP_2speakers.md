@@ -4,6 +4,7 @@ title: "啥是双簧？"
 subtitle: '日不落军团穿越救赎故事背后的故事'
 author: "Hao"
 header-style: text
+catalog: true
 tags:
   - IA003
 ---

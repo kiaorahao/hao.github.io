@@ -4,6 +4,7 @@ title: "何不游戏人生"
 subtitle: '2019年6月24周语记'
 author: "Hao"
 header-style: text
+catalog: true
 tags:
   - Audio Writing
 ---

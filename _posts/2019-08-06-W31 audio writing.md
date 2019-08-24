@@ -4,6 +4,7 @@ title: "心有鸿蒙，脚踏实地"
 subtitle: '2019年8月31周语记'
 author: "Hao"
 header-style: text
+catalog: true
 tags:
   - Audio Writing
 ---

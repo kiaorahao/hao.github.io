@@ -4,6 +4,7 @@ title: "解放了的普罗米修斯"
 subtitle: '人工智能不会自主地威胁到整体人类生存'
 author: "Hao"
 header-style: text
+catalog: true
 tags:
   - AA002
 ---

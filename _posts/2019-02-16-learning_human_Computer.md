@@ -4,6 +4,7 @@ title: "企业与个人管理决策系统"
 subtitle: ''
 author: "Hao"
 header-style: text
+catalog: true
 tags:
   - IA003
 ---

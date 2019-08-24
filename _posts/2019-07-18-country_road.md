@@ -4,6 +4,7 @@ title: "小镇青年的回乡之路"
 subtitle: '皓月长天'
 author: "Hao"
 header-style: text
+catalog: true
 tags:
   - AA002
 ---

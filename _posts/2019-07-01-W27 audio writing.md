@@ -4,6 +4,7 @@ title: "只属于你的奇特的一生"
 subtitle: '2019年6月27周语记'
 author: "Hao"
 header-style: text
+catalog: true
 tags:
   - Audio Writing
 ---

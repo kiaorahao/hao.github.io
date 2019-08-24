@@ -4,6 +4,7 @@ title: "也谈最低工资"
 subtitle: '对于最低工资对话内容的形式逻辑批判'
 author: "Hao"
 header-style: text
+catalog: true
 tags:
   - AA002
 

@@ -4,6 +4,7 @@ title: "此心光明，亦复何言"
 subtitle: '2019年7月30周语记'
 author: "Hao"
 header-style: text
+catalog: true
 tags:
   - Audio Writing
 ---
