@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "自问自答，左右互搏"
+title: "打造语写金字塔"
 subtitle: '2019年8月38周语记'
 author: "Hao"
 header-style: text
