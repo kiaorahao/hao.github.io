@@ -186,10 +186,6 @@ tags:
 
 
 
-最后安利下，欢迎通过[我的邀请码](https://dynalist.io/invite/dfJtSg)加入Dynalist大家庭，你可以有1月pro账号，我也得到5元续费。
-
-
-
 ## Changelog
 
 - !(2019-10-12) V1.0 初稿
