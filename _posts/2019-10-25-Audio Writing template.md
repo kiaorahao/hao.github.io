@@ -20,7 +20,7 @@ tags:
 
 [20191011 语音写作 - Dynalist](https://dynalist.io/d/qT2S2-BfAxEV6sa2J5zKT0vs)
 
-如果注册可以用我的[邀请链接](https://dynalist.io/invite/dfJtSg)，你可以活动1月免费Pro账号，我也可以延长会员期。
+如果注册可以用我的[邀请链接](https://dynalist.io/invite/dfJtSg)，你可以获得1月免费Pro账号，我也可以延长会员期。
 
 <br>
 
