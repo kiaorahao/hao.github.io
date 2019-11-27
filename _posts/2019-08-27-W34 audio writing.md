@@ -9,12 +9,6 @@ tags:
   - Audio Writing
 ---
 
-
-
-![nZesyR.png](https://s2.ax1x.com/2019/09/04/nZesyR.png)
-
-
-
 ### 2019年8月19日
 
 第一，像阿甘一样，即便上帝给了自己一副烂牌，也要努力打成好牌。

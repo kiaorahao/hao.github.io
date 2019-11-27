@@ -9,13 +9,6 @@ tags:
   - Audio Writing
 ---
 
-![nZegw6.png](https://s2.ax1x.com/2019/09/04/nZegw6.png)
-
-
-
-![nZeWFO.png](https://s2.ax1x.com/2019/09/04/nZeWFO.png)
-![nZe2TK.png](https://s2.ax1x.com/2019/09/04/nZe2TK.png)
-
 
 
 ### 2019年8月26日

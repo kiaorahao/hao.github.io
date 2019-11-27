@@ -12,10 +12,6 @@ tags:
 
 
 
-![KC7faQ.png](https://s2.ax1x.com/2019/10/15/KC7faQ.png)
-
-
-
 ### 2019年10月7日
 
 **每日总结**

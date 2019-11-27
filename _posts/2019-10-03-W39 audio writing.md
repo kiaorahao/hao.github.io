@@ -10,12 +10,6 @@ tags:
 
 ---
 
-
-
-[![u0uJ2T.md.png](https://s2.ax1x.com/2019/10/03/u0uJ2T.md.png)](https://imgchr.com/i/u0uJ2T)
-
-
-
 ### 2019年9月23日
 第一：闲的时候小题大做，拆分到细颗粒度；忙的时候大题小做，抓住粗颗粒度。
 

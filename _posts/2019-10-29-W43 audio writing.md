@@ -13,10 +13,6 @@ tags:
 
 
 
-![KR3xoV.md.png](https://s2.ax1x.com/2019/10/29/KR3xoV.md.png)
-
-
-
 ### 2019年10月21日
 
 **每日总结**

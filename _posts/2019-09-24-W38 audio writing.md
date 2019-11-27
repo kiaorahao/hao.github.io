@@ -10,8 +10,6 @@ tags:
 
 ---
 
-![uA6MS1.md.png](https://s2.ax1x.com/2019/09/24/uA6MS1.md.png)
-
 
 
 ### 2019年9月16日
